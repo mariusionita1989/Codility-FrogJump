@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-FrogJump", "Codility-FrogJump\Codility-FrogJump.csproj", "{BD881E18-6A53-473B-8D2F-FDBA05280CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-FrogJumpTests", "Codility-FrogJumpTests\Codility-FrogJumpTests.csproj", "{6A030491-9276-4162-A454-4F52F9CB7934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD881E18-6A53-473B-8D2F-FDBA05280CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD881E18-6A53-473B-8D2F-FDBA05280CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD881E18-6A53-473B-8D2F-FDBA05280CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD881E18-6A53-473B-8D2F-FDBA05280CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A030491-9276-4162-A454-4F52F9CB7934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A030491-9276-4162-A454-4F52F9CB7934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A030491-9276-4162-A454-4F52F9CB7934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A030491-9276-4162-A454-4F52F9CB7934}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF09515-C17B-42F4-9BFE-C26C60EE3FF4}
+	EndGlobalSection
+EndGlobal
